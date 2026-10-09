@@ -9,6 +9,8 @@ Conteúdos: if, else if, else, switch, for e while
 1. __________________________________________________________________
 2. __________________________________________________________________
 3. __________________________________________________________________
+4. __________________________________________________________________
+
 1. O desafio
 Uma instituição precisa de um sistema para analisar a campanha das equipes de um campeonato.
 Desenvolva um programa com menu, validação de entradas, cálculo de pontos e estatísticas.
